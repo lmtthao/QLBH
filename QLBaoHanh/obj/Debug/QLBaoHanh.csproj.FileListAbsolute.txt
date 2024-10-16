@@ -1,0 +1,13 @@
+D:\desktop\QLBaoHanh\QLBaoHanh\bin\Debug\QLBaoHanh.exe.config
+D:\desktop\QLBaoHanh\QLBaoHanh\bin\Debug\QLBaoHanh.exe
+D:\desktop\QLBaoHanh\QLBaoHanh\bin\Debug\QLBaoHanh.pdb
+D:\desktop\QLBaoHanh\QLBaoHanh\bin\Debug\Guna.UI2.dll
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.csproj.AssemblyReference.cache
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.Form1.resources
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.Properties.Resources.resources
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.csproj.GenerateResource.cache
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.csproj.CoreCompileInputs.cache
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.csproj.CopyComplete
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.exe
+D:\desktop\QLBaoHanh\QLBaoHanh\obj\Debug\QLBaoHanh.pdb
+D:\desktop\QLBaoHanh\QLBaoHanh\bin\Debug\MaterialSkin.dll
